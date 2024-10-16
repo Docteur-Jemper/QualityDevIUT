@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93166801-DA71-47FE-9F92-8463318BB5DC}|Library\\Library.csproj|d:\\users\\docteur-jemper\\archive\\but3\\semestre5\\r5.08 qualit\u00E9 de dev\\tp1\\qualitydeviutfork\\matthias billa--techer - antoine pisson\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93166801-DA71-47FE-9F92-8463318BB5DC}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\medias\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\medias\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|d:\\users\\docteur-jemper\\archive\\but3\\semestre5\\r5.08 qualit\u00E9 de dev\\tp1\\qualitydeviutfork\\matthias billa--techer - antoine pisson\\librarydata\\tools\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\tools\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93166801-DA71-47FE-9F92-8463318BB5DC}|Library\\Library.csproj|d:\\users\\docteur-jemper\\archive\\but3\\semestre5\\r5.08 qualit\u00E9 de dev\\tp1\\qualitydeviutfork\\matthias billa--techer - antoine pisson\\library\\code\\librarymanager\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93166801-DA71-47FE-9F92-8463318BB5DC}|Library\\Library.csproj|solutionrelative:library\\code\\librarymanager\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\medias\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\medias\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\medias\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\medias\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\medias\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\medias\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\librarydata\\code\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3862F31-1EA4-4470-8F2F-FDB081432D50}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\code\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Tools\\DataManager.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Tools\\DataManager.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Tools\\DataManager.cs",
+              "RelativeToolTip": "LibraryData\\Tools\\DataManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:18.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emprunt.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Emprunt.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Emprunt.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Emprunt.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Emprunt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Constantes.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Constantes.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Constantes.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Constantes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Medias\\DVD.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\DVD.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Medias\\DVD.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Media.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\Media.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Medias\\Media.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\Media.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Medias\\Media.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\Livre.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Medias\\Livre.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\Livre.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Medias\\Livre.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CD.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\CD.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Code\\Medias\\CD.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\LibraryData\\Code\\Medias\\CD.cs",
+              "RelativeToolTip": "LibraryData\\Code\\Medias\\CD.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:20.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\Library\\Code\\LibraryManager\\Library.cs",
+              "RelativeDocumentMoniker": "Library\\Code\\LibraryManager\\Library.cs",
+              "ToolTip": "D:\\Users\\Docteur-Jemper\\Archive\\BUT3\\Semestre5\\R5.08 Qualit\u00E9 de Dev\\TP1\\QualityDevIUTFork\\Matthias Billa--Techer - Antoine Pisson\\Library\\Code\\LibraryManager\\Library.cs",
+              "RelativeToolTip": "Library\\Code\\LibraryManager\\Library.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAiwCEBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:38:21.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
